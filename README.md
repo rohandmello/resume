@@ -25,34 +25,16 @@ Senior Software Engineer III | Cloud, Enterprise Integrations and DevOps
 ## Technical Skills
 
 - **Cloud & Platform:** Azure App Service, Azure API Management, Azure VM, Azure Functions
-- **DevOps / CI/CD / Source Control:** Azure DevOps, TeamCity, Git, TFS, Subversion, VSS, CVS
+- **DevOps / CI/CD / Source Control:** GitHub, Azure DevOps, TeamCity, Git, TFS, Subversion, VSS, CVS
 - **Containers & Orchestration:** Docker, Kubernetes
 - **ERP / E-commerce Platforms:** Acumatica, SAP Commerce, SAP S/4HANA, Adobe Commerce (Magento), Dynamics 365 CE, Dynamics GP
 - **Languages:** C#, Java, PHP, SQL, JavaScript, Bash
 - **Frameworks / Integration:** Spring, JDBC, Servlets, Hibernate, GWT, JSP, XML, HTML, CSS, REST, SOAP
-- **Application / Web Servers:** Apache Tomcat, Apache Web Server, WebLogic
+- **Application / Web Servers:** Apache Tomcat, Nginx, Apache Web Server, WebLogic
 - **Databases:** MySQL 8.x, Oracle 9.0
 - **Operating Systems:** Linux, Windows, Android, Mac OS X
 - **Tools:** Rally, PuTTY, WinSCP, Log4j, FileZilla
-- **IDE:** IntelliJ IDEA, Eclipse, NetBeans, Dreamweaver
-
----
-
-## Education
-
-- **Master of Science – Computer Science, GPA 3.706** → December 2011
-
-```
-California State University, San Bernardino  
-San Bernardino, CA
-```
-
-- **Bachelor of Engineering – Computer Science, Percentage 64** → July 2007
-
-```
-St. Francis Institute of Technology, University of Mumbai
-Mumbai, India
-```
+- **IDE:** VSCode, Visual Studio, IntelliJ IDEA, Eclipse, NetBeans, Dreamweaver
 
 ---
 
@@ -100,6 +82,24 @@ Mumbai, India
 - Supported telecom client initiatives for Telenet and Belgacom.
 - Maintained and enhanced a project knowledgebase using JSP and custom tags.
 - Participated in the full software development lifecycle for the DOC1 invoice generation tool.
+
+---
+
+## Education
+
+- **Master of Science – Computer Science, GPA 3.706** → December 2011
+
+```
+California State University, San Bernardino  
+San Bernardino, CA
+```
+
+- **Bachelor of Engineering – Computer Science, Percentage 64** → July 2007
+
+```
+St. Francis Institute of Technology, University of Mumbai
+Mumbai, India
+```
 
 ---
 
